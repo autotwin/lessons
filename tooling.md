@@ -14,6 +14,9 @@
   * venv
 * Source control
   * [Git](https://git-scm.com/)
+    * [ssh keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+    * 2FA
+    * GitHub mobile as second factor
     * macOS only: May require installation of [Xcode command line tools](https://developer.apple.com/xcode/features/) prior to installation of Git.
   * [Git Desktop](https://desktop.github.com/)
 
