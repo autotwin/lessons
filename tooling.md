@@ -19,4 +19,6 @@
     * GitHub mobile as second factor
     * macOS only: May require installation of [Xcode command line tools](https://developer.apple.com/xcode/features/) prior to installation of Git.
   * [Git Desktop](https://desktop.github.com/)
+* Code formatter
+  * [Black](https://github.com/psf/black)
 
