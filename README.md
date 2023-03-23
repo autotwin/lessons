@@ -1,7 +1,5 @@
 # Lessons
 
-## Tutorials
-
 * [Introduction to config files](config-files.md)
 
 ## Software Development
