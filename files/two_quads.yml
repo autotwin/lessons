@@ -1,0 +1,25 @@
+# From the example of a mesh composed of two quadrilateral elements
+# https://github.com/sandialabs/sibl/blob/master/geo/tests/test_mesh.py#L71
+#
+#      y
+#      ^
+#      |
+#      4        105        6
+#      *---------*---------*
+#      |         |         |
+#      |   (1)   |  (20)   |
+#      |         |         |
+#      *---------*---------*  --> x
+#     101        2       103
+#
+version: 1.0
+nodes:
+  101: (0.0, 0.0),
+  2: (1.0, 0.0),
+  103: (2.0, 0.0),
+  4: (0.0, 1.0),
+  105: (1.0, 1.0),
+  6: (2.0, 1.0),
+elements:
+  1: (101, 2, 105, 4),
+  20: (2, 103, 6, 105),
