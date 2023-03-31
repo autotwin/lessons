@@ -42,7 +42,7 @@ The structure is flat (or nested) key-value pairs.
 
 ## Exercise 1
 
-Use a text editor to recreate the following:
+Use a text editor to recreate the following `.yml` file:
 
 ```bash
 # From the example of a mesh composed of two quadrilateral elements
@@ -72,7 +72,7 @@ elements:
   20: (2, 103, 6, 105),
 ```
 
-The most up-to-date version of this file is found [here](input/two_quads.yml).
+The most up-to-date version of this file is found [here](files/two_quads.yml).
 
 Read in the file and an echo the data to the command line:
 
