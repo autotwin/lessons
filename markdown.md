@@ -45,8 +45,8 @@ Element | Markdown Syntax | Rendered Output
 [Bold](https://www.markdownguide.org/basic-syntax/#bold) | `**bold text**` | **bold text**
 [Italic](https://www.markdownguide.org/basic-syntax/#italic) | `*italicized text*` | *italicized text*
 [Blockquote](https://www.markdownguide.org/basic-syntax/#blockquotes-1) | `> blockquote` | > blockquote
-[Ordered List](https://www.markdownguide.org/basic-syntax/#ordered-lists) | `1. First item`</br>`2. Second item`</br>`3. Third item` | 1. First item</br>2. Second item</br>3. Third item
-[Unordered List](https://www.markdownguide.org/basic-syntax/#unordered-lists) | `- First item`</br>`- Second item`</br>`- Third item` | <li>First item</li><li>Second item</li><li>Third item</li>
+[Ordered List](https://www.markdownguide.org/basic-syntax/#ordered-lists) | `1. First item`</br>`2. Second item`</br>`3. Third item` | <ol><li>First item</li><li>Second item</li><li>Third item</li></ul>
+[Unordered List](https://www.markdownguide.org/basic-syntax/#unordered-lists) | `- First item`</br>`- Second item`</br>`- Third item` | <ul><li>First item</li><li>Second item</li><li>Third item</li></ul>
 [Code](https://www.markdownguide.org/basic-syntax/#code) | `code`
 [Horizontal Rule](https://www.markdownguide.org/basic-syntax/#horizontal-rules) | --- |
 [Link](https://www.markdownguide.org/basic-syntax/#links) | `[title](https://www.github.com)` | [GitHub](https://www.github.com)
