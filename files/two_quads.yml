@@ -23,3 +23,17 @@ nodes:
 elements:
   1: (101, 2, 105, 4),
   20: (2, 103, 6, 105),
+boundary_conditions:
+  dirichlet:
+    (101, 4,)
+  neumann:
+    (6, 103,)
+names:
+  last:
+    - Hovey
+    - Tripathi
+    - Wang
+  first:
+    - Anu
+    - Chad
+    - Yaohu
