@@ -44,7 +44,7 @@ The structure is flat (or nested) key-value pairs.
 
 Use a text editor to recreate the following `.yml` file:
 
-```bash
+```yml
 # From the example of a mesh composed of two quadrilateral elements
 # https://github.com/sandialabs/sibl/blob/master/geo/tests/test_mesh.py#L71
 #
